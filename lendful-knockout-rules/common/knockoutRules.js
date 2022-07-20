@@ -166,9 +166,10 @@ function verifyTradeFirstOpenedWithin3YearsFromToday(tradeFirstOpened) {
  * Verify the knockout rules for Lendful API
  * @param {Object} lead
  * @param {Object} creditData
+ * @param {String} xmlHumanReadable
  * @returns
  */
-function verifyKnockoutRulesLendfulAPI(lead, creditData) {
+function verifyKnockoutRulesLendfulAPI(lead, creditData, xmlHumanReadable) {
   if (!lead) return false;
 
   const fields = JSON.parse(lead.fields);

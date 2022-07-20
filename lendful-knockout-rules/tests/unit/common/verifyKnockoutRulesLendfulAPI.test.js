@@ -1,5 +1,9 @@
 const { subMonths } = require('date-fns');
 const { verifyKnockoutRulesLendfulAPI } = require('../../../common/knockoutRules');
+const {
+  humanReadableWithTradeFirstOpened,
+  humanReadableWithoutTradeFirstOpened,
+} = require('../resources/humanReadable');
 
 const lead = {
   fields: JSON.stringify({ monthly_income: 4500 }),
@@ -21,16 +25,16 @@ const creditData = {
 
 describe('test verifyKnockoutRulesLendfulAPI', () => {
   it('test verifyKnockoutRulesLendfulAPI with empty parameter', async () => {
-    expect(verifyKnockoutRulesLendfulAPI(null, null)).toBe(false);
+    expect(verifyKnockoutRulesLendfulAPI(null, null, null)).toBe(false);
   });
 
   it('test verifyKnockoutRulesLendfulAPI one empty parameter', async () => {
-    expect(verifyKnockoutRulesLendfulAPI(lead, null)).toBe(false);
-    expect(verifyKnockoutRulesLendfulAPI(null, creditData)).toBe(false);
+    expect(verifyKnockoutRulesLendfulAPI(lead, null, null)).toBe(false);
+    expect(verifyKnockoutRulesLendfulAPI(null, creditData, null)).toBe(false);
   });
 
   it('test verifyKnockoutRulesLendfulAPI with KO not passed', async () => {
-    expect(verifyKnockoutRulesLendfulAPI(lead, creditData)).toBe(false);
+    expect(verifyKnockoutRulesLendfulAPI(lead, creditData, humanReadableWithoutTradeFirstOpened)).toBe(false);
   });
 
   it('test verifyKnockoutRulesLendfulAPI with KO passed', async () => {
@@ -40,6 +44,6 @@ describe('test verifyKnockoutRulesLendfulAPI', () => {
     creditData.bankruptcyDateDischarged = null;
     creditData.proposalSatisfiedDate = null;
     creditData.totalUnpaidCollectionsAndLegal = 0;
-    expect(verifyKnockoutRulesLendfulAPI(lead, creditData)).toBe(true);
+    expect(verifyKnockoutRulesLendfulAPI(lead, creditData, humanReadableWithTradeFirstOpened)).toBe(true);
   });
 });
