@@ -1,0 +1,653 @@
+<?xml version="1.0"?>
+<REL4Report>
+   <UserReference>TEST</UserReference>
+   <MemberCode>ZZ97519832</MemberCode>
+   <Date>20120316</Date>
+   <Time>111945</Time>
+   <Product>07000</Product>
+   <TU_FFR_Report>
+      <Hit>Y</Hit>
+      <OnFileDate>20051115</OnFileDate>
+      <Names>
+         <Name NameType="Primary">
+            <LastName>CONSUMER</LastName>
+            <FirstName>ROBERT</FirstName>
+         </Name>
+         <Name NameType="Alias">
+            <LastName>SMITH</LastName>
+            <FirstName>ROBERT</FirstName>
+         </Name>
+      </Names>
+      <PersonalInformation>
+         <SIN>000000000</SIN>
+         <DOB>19640505</DOB>
+      </PersonalInformation>
+      <Addresses>
+         <Address AddrType="Personal">
+            <Street>171 JACKSON ST E</Street>
+            <City>HAMILTON</City>
+            <Prov>ON</Prov>
+            <Postal>L8N1L4</Postal>
+            <DateReported>20091115</DateReported>
+         </Address>
+         <Address AddrType="Personal">
+            <Street>171 JACKSON ST E</Street>
+            <City>HAMILTON</City>
+            <Prov>ON</Prov>
+            <Postal>L8N1L4</Postal>
+            <DateReported>20091115</DateReported>
+         </Address>
+         <Address AddrType="Personal">
+            <Street>171 JACKSON ST E</Street>
+            <City>HAMILTON</City>
+            <Prov>ON</Prov>
+            <Postal>L8N1L4</Postal>
+            <DateReported>20091006</DateReported>
+         </Address>
+      </Addresses>
+      <Telephones>
+         <Telephone PhoneType="Personal">
+            <Number>9055720000</Number>
+         </Telephone>
+      </Telephones>
+      <Employments>
+         <Employment>
+            <EmpName>ABC</EmpName>
+            <Occupation>LABOURER</Occupation>
+            <DateHired>00000000</DateHired>
+            <DateSeparated>00000000</DateSeparated>
+            <DateVerified>00000000</DateVerified>
+            <Income>0</Income>
+         </Employment>
+         <Employment>
+            <EmpName>BBB</EmpName>
+            <DateHired>00000000</DateHired>
+            <DateSeparated>00000000</DateSeparated>
+            <DateVerified>00000000</DateVerified>
+            <Income>0</Income>
+         </Employment>
+      </Employments>
+      <RegisteredItems>
+         <RegisteredItem>
+            <DateRevised>20120202</DateRevised>
+            <MemberCode>BB916280</MemberCode>
+            <DateFiled>20080701</DateFiled>
+            <DateMatures>20080901</DateMatures>
+            <OriginalBalance>15000</OriginalBalance>
+            <CurrentBalance>0</CurrentBalance>
+         </RegisteredItem>
+      </RegisteredItems>
+      <Bankings>
+         <Banking>
+            <AccountNumber>123456</AccountNumber>
+            <DateOpened>20090301</DateOpened>
+            <DateVerified>20120202</DateVerified>
+            <DateClosed>20100301</DateClosed>
+            <IndustryCode>BB</IndustryCode>
+            <SubscriberCode>9031942</SubscriberCode>
+            <SubscriberName>ROYAL BANK OF CANADA</SubscriberName>
+            <TypeAccount>A</TypeAccount>
+            <AccountDesignator>I</AccountDesignator>
+            <Balance>000000000</Balance>
+            <Narrative>BN</Narrative>
+         </Banking>
+      </Bankings>
+      <Legals>
+         <Legal>
+            <DateRevised>20120202</DateRevised>
+            <Type>JUDG</Type>
+            <CaseNumber>1364964619</CaseNumber>
+            <Reference>YORKSC</Reference>
+            <DateReported>20110502</DateReported>
+            <DateSatisfied>00000000</DateSatisfied>
+            <OriginalAmount>100</OriginalAmount>
+            <CurrentBalance>0</CurrentBalance>
+            <Narrative1>BN</Narrative1>
+            <Plaintiff>XBXBXBBXBXB</Plaintiff>
+            <Lawyer>BPBPBPPBPB</Lawyer>
+         </Legal>
+         <Legal>
+            <DateRevised>20120202</DateRevised>
+            <Type>JUDG</Type>
+            <CaseNumber>12345</CaseNumber>
+            <Reference>HAM</Reference>
+            <DateReported>20080104</DateReported>
+            <DateSatisfied>20080205</DateSatisfied>
+            <OriginalAmount>500</OriginalAmount>
+            <CurrentBalance>0</CurrentBalance>
+            <StatusCode>SO</StatusCode>
+            <Narrative1>BN</Narrative1>
+            <Plaintiff>ABCDEFG</Plaintiff>
+         </Legal>
+      </Legals>
+      <Collections>
+         <Collection>
+            <MemberName>ATLANTIC COLLECT</MemberName>
+            <Account>1235487</Account>
+            <Creditor>DR H TOOTH DECAY</Creditor>
+            <DateReported>20110301</DateReported>
+            <DateVerified>20120202</DateVerified>
+            <DatePaidOut>00000000</DatePaidOut>
+            <CurrentBalance>1500</CurrentBalance>
+            <OriginalAmount>1500</OriginalAmount>
+            <Remarks>SO</Remarks>
+         </Collection>
+      </Collections>
+      <Trades>
+         <Trade>
+            <MemberCode>DC9755</MemberCode>
+            <MemberName>THE BAY</MemberName>
+            <Type>R</Type>
+            <Account>3248542.186431</Account>
+            <Joint>I</Joint>
+            <DateOpened>20020328</DateOpened>
+            <DateRevised>20120202</DateRevised>
+            <DateLastActivity>20120228</DateLastActivity>
+            <MOP>01</MOP>
+            <Balance>28</Balance>
+            <HighCredit>1000</HighCredit>
+            <CreditLimit>0</CreditLimit>
+            <Frequency>M</Frequency>
+            <Payment>0</Payment>
+            <Narrative1>HS</Narrative1>
+            <Narrative2>HC</Narrative2>
+            <PastDue>0</PastDue>
+            <PaymentPatternStartDate>20120228</PaymentPatternStartDate>
+            <PaymentPattern>11111111111111111111111XXXX121111111111111111111</PaymentPattern>
+            <MonthsReviewed>48</MonthsReviewed>
+            <Plus30>1</Plus30>
+            <Plus60>0</Plus60>
+            <Plus90>0</Plus90>
+         </Trade>
+         <Trade>
+            <MemberCode>BB9012332</MemberCode>
+            <MemberName>BANK OF MONTREAL</MemberName>
+            <Type>I</Type>
+            <Account>0222332113</Account>
+            <Joint>I</Joint>
+            <DateOpened>20120229</DateOpened>
+            <DateRevised>20120202</DateRevised>
+            <DateLastActivity>20120229</DateLastActivity>
+            <MOP>01</MOP>
+            <Balance>1500</Balance>
+            <HighCredit>2000</HighCredit>
+            <CreditLimit>0</CreditLimit>
+            <Frequency>M</Frequency>
+            <Payment>0</Payment>
+            <PastDue>0</PastDue>
+            <PaymentPattern>11111111111111111111113111111111111111</PaymentPattern>
+            <MonthsReviewed>38</MonthsReviewed>
+            <Plus30>0</Plus30>
+            <Plus60>1</Plus60>
+            <Plus90>0</Plus90>
+         </Trade>
+         <Trade>
+            <MemberCode>BB97510001</MemberCode>
+            <MemberName>TORONTO DOMINION BANK</MemberName>
+            <Type>R</Type>
+            <Account>45645456</Account>
+            <Joint>I</Joint>
+            <DateOpened>19931001</DateOpened>
+            <DateRevised>20120202</DateRevised>
+            <DateLastActivity>20100401</DateLastActivity>
+            <MOP>08</MOP>
+            <Balance>11000</Balance>
+            <HighCredit>0</HighCredit>
+            <CreditLimit>15000</CreditLimit>
+            <Frequency>M</Frequency>
+            <Payment>0</Payment>
+            <Narrative1>LS</Narrative1>
+            <Narrative2>VO</Narrative2>
+            <PastDue>0</PastDue>
+            <PaymentPatternStartDate>20120222</PaymentPatternStartDate>
+            <PaymentPattern>876541111111111111111111111111110000000000000000</PaymentPattern>
+            <MonthsReviewed>65</MonthsReviewed>
+            <Plus30>0</Plus30>
+            <Plus60>0</Plus60>
+            <Plus90>0</Plus90>
+         </Trade>
+         <Trade>
+            <MemberCode>BC975126</MemberCode>
+            <MemberName>HSBC M/C</MemberName>
+            <Type>R</Type>
+            <Account>1234567893216549</Account>
+            <Joint>I</Joint>
+            <DateOpened>20091001</DateOpened>
+            <DateRevised>20120202</DateRevised>
+            <DateLastActivity>20120219</DateLastActivity>
+            <MOP>01</MOP>
+            <Balance>0</Balance>
+            <HighCredit>500</HighCredit>
+            <CreditLimit>0</CreditLimit>
+            <Frequency>M</Frequency>
+            <Payment>0</Payment>
+            <Narrative1>CZ</Narrative1>
+            <Narrative2>HC</Narrative2>
+            <PastDue>0</PastDue>
+            <PaymentPatternStartDate>20120212</PaymentPatternStartDate>
+            <PaymentPattern>111111111111111000000000000000</PaymentPattern>
+            <MonthsReviewed>30</MonthsReviewed>
+            <Plus30>0</Plus30>
+            <Plus60>0</Plus60>
+            <Plus90>0</Plus90>
+         </Trade>
+         <Trade>
+            <MemberCode>DC931107</MemberCode>
+            <MemberName>SEARS</MemberName>
+            <Type>I</Type>
+            <Account>628456456456</Account>
+            <Joint>I</Joint>
+            <DateOpened>20060201</DateOpened>
+            <DateRevised>20120202</DateRevised>
+            <DateLastActivity>20080701</DateLastActivity>
+            <MOP>01</MOP>
+            <Balance>0</Balance>
+            <HighCredit>1500</HighCredit>
+            <CreditLimit>0</CreditLimit>
+            <Frequency>M</Frequency>
+            <Payment>150</Payment>
+            <Narrative1>PD</Narrative1>
+            <Narrative2>AC</Narrative2>
+            <PastDue>0</PastDue>
+            <PaymentPatternStartDate>20120215</PaymentPatternStartDate>
+            <PaymentPattern>11111111111111111111111111111111111</PaymentPattern>
+            <MonthsReviewed>35</MonthsReviewed>
+            <Plus30>0</Plus30>
+            <Plus60>0</Plus60>
+            <Plus90>0</Plus90>
+         </Trade>
+         <Trade>
+            <MemberCode>DC9759</MemberCode>
+            <MemberName>SIMPSONS</MemberName>
+            <Type>I</Type>
+            <Account>56564456</Account>
+            <Joint>I</Joint>
+            <DateOpened>20011001</DateOpened>
+            <DateRevised>20120202</DateRevised>
+            <DateLastActivity>20101101</DateLastActivity>
+            <MOP>09</MOP>
+            <Balance>0</Balance>
+            <HighCredit>500</HighCredit>
+            <CreditLimit>0</CreditLimit>
+            <Frequency>M</Frequency>
+            <Payment>100</Payment>
+            <Narrative1>SE</Narrative1>
+            <Narrative2>WO</Narrative2>
+            <PastDue>0</PastDue>
+            <PaymentPatternStartDate>20080701</PaymentPatternStartDate>
+            <PaymentPattern>999543211111111111111111111111111111000000000000</PaymentPattern>
+            <MonthsReviewed>55</MonthsReviewed>
+            <Plus30>1</Plus30>
+            <Plus60>1</Plus60>
+            <Plus90>5</Plus90>
+         </Trade>
+         <Trade>
+            <MemberCode>BC97537</MemberCode>
+            <MemberName>TD/GM VISA</MemberName>
+            <Type>R</Type>
+            <Account>4551111111111111</Account>
+            <Joint>I</Joint>
+            <DateOpened>20090401</DateOpened>
+            <DateRevised>20120202</DateRevised>
+            <DateLastActivity>20101101</DateLastActivity>
+            <MOP>01</MOP>
+            <Balance>0</Balance>
+            <HighCredit>0</HighCredit>
+            <CreditLimit>0</CreditLimit>
+            <Frequency>M</Frequency>
+            <Payment>0</Payment>
+            <PastDue>0</PastDue>
+            <PaymentPatternStartDate>20101114</PaymentPatternStartDate>
+            <PaymentPattern>11111111111111111111111111111111111100000000</PaymentPattern>
+            <MonthsReviewed>44</MonthsReviewed>
+            <Plus30>0</Plus30>
+            <Plus60>0</Plus60>
+            <Plus90>0</Plus90>
+         </Trade>
+         <Trade>
+            <MemberCode>BB916280</MemberCode>
+            <MemberName>HSBC BANK CANADA</MemberName>
+            <Type>R</Type>
+            <Account>2805555</Account>
+            <Joint>I</Joint>
+            <DateOpened>20051001</DateOpened>
+            <DateRevised>20120202</DateRevised>
+            <DateLastActivity>20080701</DateLastActivity>
+            <MOP>01</MOP>
+            <Balance>0</Balance>
+            <HighCredit>0</HighCredit>
+            <CreditLimit>15000</CreditLimit>
+            <Frequency>M</Frequency>
+            <Payment>0</Payment>
+            <Narrative1>PD</Narrative1>
+            <PastDue>0</PastDue>
+            <PaymentPatternStartDate>20080709</PaymentPatternStartDate>
+            <PaymentPattern>111111111111111111</PaymentPattern>
+            <MonthsReviewed>18</MonthsReviewed>
+            <Plus30>0</Plus30>
+            <Plus60>0</Plus60>
+            <Plus90>0</Plus90>
+         </Trade>
+      </Trades>
+      <Inquiries>
+         <Inquiry>
+            <MemberCode>BR9314882</MemberCode>
+            <MemberName>ROYAL BANK OF CANADA</MemberName>
+            <Date>20120219</Date>
+         </Inquiry>
+         <Inquiry>
+            <MemberCode>BB9100100</MemberCode>
+            <MemberName>CDN IMPERIAL BK OF COMME</MemberName>
+            <Date>20120119</Date>
+         </Inquiry>
+         <Inquiry>
+            <MemberCode>FZ97521744</MemberCode>
+            <MemberName>HOME TRUST COMPANY</MemberName>
+            <Date>20090713</Date>
+         </Inquiry>
+         <Inquiry>
+            <MemberCode>DC931107</MemberCode>
+            <MemberName>SEARS</MemberName>
+            <Date>20081119</Date>
+         </Inquiry>
+         <Inquiry>
+            <MemberCode>DC9751</MemberCode>
+            <MemberName>WFFRS/TRU SERV</MemberName>
+            <Date>20081119</Date>
+         </Inquiry>
+         <Inquiry>
+            <MemberCode>BC97511111</MemberCode>
+            <MemberName>BANK OF MONTREAL M/C</MemberName>
+            <Date>20081005</Date>
+         </Inquiry>
+         <Inquiry>
+            <MemberCode>BC97525122</MemberCode>
+            <MemberName>ROYAL BANK OF CANADA VIS</MemberName>
+            <Date>20080809</Date>
+         </Inquiry>
+         <Inquiry>
+            <MemberCode>ZZ9750001</MemberCode>
+            <MemberName>ROGERS WIRELESS</MemberName>
+            <Date>20080708</Date>
+         </Inquiry>
+         <Inquiry>
+            <MemberCode>AT931363</MemberCode>
+            <MemberName>CANADIAN TIRE FINANCIAL</MemberName>
+            <Date>20060306</Date>
+         </Inquiry>
+         <Inquiry>
+            <MemberCode>BB97500001</MemberCode>
+            <MemberName>CITIBANK CANADA</MemberName>
+            <Date>20060211</Date>
+         </Inquiry>
+         <Inquiry>
+            <MemberCode>BB916280</MemberCode>
+            <MemberName>HSBC BANK CANADA</MemberName>
+            <Date>20060104</Date>
+         </Inquiry>
+      </Inquiries>
+      <ConsumerStatements>
+         <ConsumerStatement>
+            <Type>02</Type>
+            <Text>CONFIRMED FRAUD VICTIM; BEFORE EXTENDING CREDIT VERIFY ALL A</Text>
+         </ConsumerStatement>
+         <ConsumerStatement>
+            <Type>02</Type>
+            <Text>PPLICANT INFORMATION. CONTACT CONSUMER FOR VERIFICATION AT H</Text>
+         </ConsumerStatement>
+         <ConsumerStatement>
+            <Type>02</Type>
+            <Text>OME: (416) 332-1122 HOME ALTERNATE: (416) 332-1122 DATED 11/</Text>
+         </ConsumerStatement>
+         <ConsumerStatement>
+            <Type>02</Type>
+            <Text>2006 VICTIME CONFIRMEE DE FRAUDE: NE PAS ACCORDER DE CREDIT</Text>
+         </ConsumerStatement>
+         <ConsumerStatement>
+            <Type>02</Type>
+            <Text>SANS VERIFIER TOUTES LES INFORMATIONS DU POSTULANT. DE PLUS,</Text>
+         </ConsumerStatement>
+         <ConsumerStatement>
+            <Type>02</Type>
+            <Text> COMMUNIQUER AVEC LE CONSOMMATEUR DIRECTEMENT A DOMICILE POU</Text>
+         </ConsumerStatement>
+         <ConsumerStatement>
+            <Type>02</Type>
+            <Text>R VERIFICATION AU: (416) 332-1122 DOMICILE ALTERNATE: (416)</Text>
+         </ConsumerStatement>
+         <ConsumerStatement>
+            <Type>02</Type>
+            <Text>332-1122 DATE 11/2006 CONFIRMED FRAUD VICTIM; BEFORE EXTENDI</Text>
+         </ConsumerStatement>
+         <ConsumerStatement>
+            <Type>02</Type>
+            <Text>NG CREDIT VERIFY ALL APPLICANT INFORMATION. CONTACT CONSUMER</Text>
+         </ConsumerStatement>
+         <ConsumerStatement>
+            <Type>02</Type>
+            <Text> FOR VERIFICATION AT HOME: (416) 332-1122 DATED 11/2006  VIC</Text>
+         </ConsumerStatement>
+         <ConsumerStatement>
+            <Type>02</Type>
+            <Text>TIME CONFIRMEE DE FRAUDE: NE PAS ACCORDER DE CREDIT SANS  VE</Text>
+         </ConsumerStatement>
+         <ConsumerStatement>
+            <Type>02</Type>
+            <Text>RIFIER TOUTES LES INFORMATIONS DU POSTULANT. DE PLUS, COMMUN</Text>
+         </ConsumerStatement>
+         <ConsumerStatement>
+            <Type>02</Type>
+            <Text>IQUER AVEC LE CONSOMMATEUR DIRECTEMENT A DOMICILE POUR VERIF</Text>
+         </ConsumerStatement>
+         <ConsumerStatement>
+            <Type>02</Type>
+            <Text>ICATION AU: (416) 332-1122 DATE 11/2006</Text>
+         </ConsumerStatement>
+      </ConsumerStatements>
+      <MiscellaneousStatements>
+         <MiscellaneousStatement>
+            <Text>TYPE:CHEQUING ACCT MEMBER_CODE:903BB1952 ACCOUNT_NUMBER:1234</Text>
+         </MiscellaneousStatement>
+         <MiscellaneousStatement>
+            <Text>56 OPEN:AUG03 ACCOUNT_BAL:HI5 %UTILIZED:75 STATUS:FULLY UTIL</Text>
+         </MiscellaneousStatement>
+         <MiscellaneousStatement>
+            <Text>IZED NARRATIVE:BALANCE NOT AVAILABLE DETAIL_INFO:FREE FORM T</Text>
+         </MiscellaneousStatement>
+         <MiscellaneousStatement>
+            <Text>EXT FOR ADDTIONAL NOTES</Text>
+         </MiscellaneousStatement>
+      </MiscellaneousStatements>
+      <CreditSummary>
+         <ReportingPeriod>1</ReportingPeriod>
+         <NumberOfPublicRecords>002</NumberOfPublicRecords>
+         <NumberOfCollections>001</NumberOfCollections>
+         <NumberOfNegativeTrades>002</NumberOfNegativeTrades>
+         <NumberOfNegativeTradesHistorical>003</NumberOfNegativeTradesHistorical>
+         <NumberOfHistoricalNegative>017</NumberOfHistoricalNegative>
+         <NumberOfTrades>008</NumberOfTrades>
+         <NumberOfRevolvingTrades>005</NumberOfRevolvingTrades>
+         <NumberOfInstallmentTrades>003</NumberOfInstallmentTrades>
+         <NumberOfMortgageTrades>000</NumberOfMortgageTrades>
+         <NumberOfOpenTrades>000</NumberOfOpenTrades>
+         <NumberOfInquiries>011</NumberOfInquiries>
+      </CreditSummary>
+      <CreditSummaryDetails>
+         <CreditSummaryDetail>
+            <Type>R</Type>
+            <HighCredit>000000615</HighCredit>
+            <CreditLimit>000030000</CreditLimit>
+            <Balance>000011028</Balance>
+            <PastDue>000000000</PastDue>
+            <MonthlyPayment>000000000</MonthlyPayment>
+            <PercentageAvailable>064</PercentageAvailable>
+         </CreditSummaryDetail>
+         <CreditSummaryDetail>
+            <Type>I</Type>
+            <HighCredit>000004000</HighCredit>
+            <CreditLimit>000000000</CreditLimit>
+            <Balance>000001500</Balance>
+            <PastDue>000000000</PastDue>
+            <MonthlyPayment>000000250</MonthlyPayment>
+         </CreditSummaryDetail>
+         <CreditSummaryDetail>
+            <Type>M</Type>
+            <HighCredit>000000000</HighCredit>
+            <CreditLimit>000000000</CreditLimit>
+            <Balance>000000000</Balance>
+            <PastDue>000000000</PastDue>
+            <MonthlyPayment>000000000</MonthlyPayment>
+         </CreditSummaryDetail>
+         <CreditSummaryDetail>
+            <Type>O</Type>
+            <HighCredit>000000000</HighCredit>
+            <CreditLimit>000000000</CreditLimit>
+            <Balance>000000000</Balance>
+            <PastDue>000000000</PastDue>
+            <MonthlyPayment>000000000</MonthlyPayment>
+            <PercentageAvailable>000</PercentageAvailable>
+         </CreditSummaryDetail>
+         <CreditSummaryDetail>
+            <Type>T</Type>
+            <HighCredit>000004615</HighCredit>
+            <CreditLimit>000030000</CreditLimit>
+            <Balance>000012528</Balance>
+            <PastDue>000000000</PastDue>
+            <MonthlyPayment>000000250</MonthlyPayment>
+         </CreditSummaryDetail>
+      </CreditSummaryDetails>
+      <TU_TTY_Report>
+         <![CDATA[
+
+TEST                        TRANS UNION OF CANADA                          
+                           Consumer Credit Report               Date:16Mar2012
+
+          Surname             Given Name(s)       Soc.Ins.No.   Birth
+Subject   CONSUMER            ROBERT                            05May1964
+                                                                               
+X-Ref
+AKA       SMITH               ROBERT
+
+On File   Last Inq           Current Residence    Telephone     Prev phone
+15Nov2005 19Feb2012                               9055720000    9055720000     
+
+-- Residence(s) ---------------------------------------------------------------
+Street                        City           Prov Postal    Since     Cnfrm
+171 JACKSON ST E              HAMILTON       ON   L8N1L4    Nov2009   Feb2012
+171 JACKSON ST E              HAMILTON       ON   L8N1L4    Nov2009   Feb2012
+171 JACKSON ST E              HAMILTON       ON   L8N1L4    Oct2009   Feb2012
+
+-- Employment(s) --------------------------------------------------------------
+Employers Name & Address                Occupation          Since     Cnfrm
+ABC, TORONTO, ON                        LABOURER                      02Feb2012
+BBB, HAMILTON, ON                                                     02Feb2012
+BBBBBB, ON                                                            02Feb2012
+ABCDEFG, ON                                                           02Feb2012
+CCCCCCCC, ON                                                          02Feb2012
+
+-- File summary ---------------------------------------------------------------
+Legal=2-May2011 Bkrp=0-0000000 Col=1-Mar2011 Inqs=11-Feb2012 6Mnth=2 CollInq=0
+High=$33500 Baln=$12528 Pdue=$0 Paym=$250 Acct=8 Neg=2 Paid=4
+Trade=Oct1993/Feb2012 Balances Inst=$1500 Rev=$11028 Open=$0 Mort=$0 #Reg=1
+
+-- Banking - Closed For Cause -------------------------------------------------
+Reptd    Open     WriteOff Amount   Reason
+   BB    ROYAL BANK OF CANADA,9055485700
+Feb2012  Mar2009           0
+
+-- Trade ----------------------------------------------------------------------
+                                                      Payment Pattern
+Reptd    Open    Last    H.Credit Balance  PastDue Terms    30/60/90/#M    MOP
+   DC  THE BAY                                        11111111111111111111111X
+Feb2012  Mar2002 Feb2012 1000     28               M         1  0  0 48    R1
+                           HAS CO-SIGNER
+
+   BB  BANK OF MONTREAL,6139842981                    111111111111111111111131
+Feb2012  Feb2012 Feb2012          1500             M         0  1  0 38    I1
+                                                                               
+
+   BB  TORONTO DOMINION BANK,8005633995               876541111111111111111111
+Feb2012  Oct1993 Apr2010 15000    11000    0       0/M       0  0  0 65    R8
+                           LEASE, VOLUNTARY REPO
+
+   BC  HSBC M/C,8664064722                            111111111111111000000000
+Feb2012  Oct2009 Feb2012 500                       M         0  0  0 30    R1
+                           CLOSED CONSUMER'S REQUEST
+
+   DC  SEARS,8006868224                               111111111111111111111111
+Feb2012  Feb2006 Jul2008 1500     0        0       150/M     0  0  0 35    I1
+                           PAID, ACCT CLOSED
+
+   DC  SIMPSONS,6046892130                            999543211111111111111111
+Feb2012  Oct2001 Nov2010 500      0        0       100/M     1  1  5 55    I9
+                           SETTLED, BAD DEBT WRITE OFF
+
+   BC  TD/GM VISA,4169824600                          111111111111111111111111
+Nov2010  Apr2009 Nov2010 0        0        0       0/M       0  0  0 44    R1
+                                                                               
+
+   BB  HSBC BANK CANADA,6048957100                    111111111111111111
+Jul2008  Oct2005 Jul2008 15000    0        0       0/M       0  0  0 18    R1
+                           PAID
+
+-- Registered Items -----------------------------------------------------------
+Reptd    Open    Matur   Amount                        Security                
+   BB  *Member information currently not available*                            
+Feb2012  Jul2008 Sep2008 15000                                                 
+
+-- Legal items ----------------------------------------------------------------
+Rvsd     Reptd     Plaintiff's Name               Amount  Balance
+Feb2012  May2011   XBXBXBBXBXB                    100                          
+                   YORKTON, SK, SUPREME COURT     BALANCE NOT AVAILABLE,       
+                   JUDG, 1364964619                                            
+
+Feb2012  Jan2008   ABCDEFG                        500                          
+                   HAMILTON                       BALANCE NOT AVAILABLE, Feb2008
+                   JUDG, 12345                    STILL OWING                  
+
+-- Collections ----------------------------------------------------------------
+Rvsd     Reptd   Creditor's Name                  Amount  Balance
+Feb2012  Mar2011 ATLANTIC COLLECT/DR H TOOTH DECAY1500    1500
+                                                  STILL OWING
+                                                                               
+
+-- Inquiries ------------------------------------------------------------------
+  Date    Credit Grantor
+19Feb2012 BR ROYAL BANK OF CANADA,9056646412
+19Jan2012 BB CDN IMPERIAL BK OF COMMERCE,6046651949
+13Jul2009 FZ HOME TRUST COMPANY,8777276883
+19Nov2008 DC SEARS,8006868224
+19Nov2008 DC WFFRS/TRU SERV,4163825472
+05Oct2008 BC BANK OF MONTREAL M/C
+09Aug2008 BC ROYAL BANK OF CANADA VISA,8002688046
+08Jul2008 ZZ ROGERS WIRELESS,8002672070
+06Mar2006 AT CANADIAN TIRE FINANCIAL SERVICES,9057353131
+11Feb2006 BB CITIBANK CANADA,4169472900
+04Jan2006 BB HSBC BANK CANADA,6048957100
+
+-- Remarks --------------------------------------------------------------------
+  Date    Information
+02Feb2012 #HK# CONFIRMED FRAUD VICTIM; BEFORE EXTENDING CREDIT VERIFY ALL
+02Feb2012 #HK# APPLICANT INFORMATION. CONTACT CONSUMER FOR VERIFICATION AT
+02Feb2012 #HK# HOME: (416) 332-1122 HOME ALTERNATE: (416) 332-1122 DATED
+02Feb2012 #HK# 11/2006 VICTIME CONFIRMEE DE FRAUDE: NE PAS ACCORDER DE CREDIT
+02Feb2012 #HK# SANS VERIFIER TOUTES LES INFORMATIONS DU POSTULANT. DE PLUS,
+02Feb2012 #HK# COMMUNIQUER AVEC LE CONSOMMATEUR DIRECTEMENT A DOMICILE POUR
+02Feb2012 #HK# VERIFICATION AU: (416) 332-1122 DOMICILE ALTERNATE: (416)
+02Feb2012 #HK# 332-1122 DATE 11/2006 CONFIRMED FRAUD VICTIM; BEFORE EXTENDING
+02Feb2012 #HK# CREDIT VERIFY ALL APPLICANT INFORMATION. CONTACT CONSUMER FOR
+02Feb2012 #HK# VERIFICATION AT HOME: (416) 332-1122 DATED 11/2006  VICTIME
+02Feb2012 #HK# CONFIRMEE DE FRAUDE: NE PAS ACCORDER DE CREDIT SANS  VERIFIER
+02Feb2012 #HK# TOUTES LES INFORMATIONS DU POSTULANT. DE PLUS, COMMUNIQUER AVEC
+02Feb2012 #HK# LE CONSOMMATEUR DIRECTEMENT A DOMICILE POUR VERIFICATION AU:
+02Feb2012 #HK# (416) 332-1122 DATE 11/2006
+02Feb2012 GEN  TYPE:CHEQUING ACCT MEMBER_CODE:903BB1952 ACCOUNT_NUMBER:123456
+02Feb2012 GEN  OPEN:AUG03 ACCOUNT_BAL:HI5 %UTILIZED:75 STATUS:FULLY UTILIZED
+02Feb2012 GEN  NARRATIVE:BALANCE NOT AVAILABLE DETAIL_INFO:FREE FORM TEXT FOR
+02Feb2012 GEN  ADDTIONAL NOTES
+
+This completes the file for ROBERT CONSUMER
+]]>
+      </TU_TTY_Report>
+   </TU_FFR_Report>
+</REL4Report>
