@@ -1,4 +1,4 @@
-const { verifyTotalDebitServices65GreaterThanIncome } = require('../../../../common/knockoutRules');
+const { verifyTotalDebitServices65GreaterThanIncome } = require('../../../../functions/knockoutRules');
 
 describe('test verifyTotalDebitServices65GreaterThanIncome', () => {
   it('test verifyTotalDebitServices65GreaterThanIncome with empty parameter', async () => {

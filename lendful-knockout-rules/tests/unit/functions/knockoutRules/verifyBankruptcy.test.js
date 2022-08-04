@@ -1,4 +1,4 @@
-const { verifyBankruptcy } = require('../../../../common/knockoutRules');
+const { verifyBankruptcy } = require('../../../../functions/knockoutRules');
 
 describe('test verifyBankruptcy', () => {
   it('test verifyBankruptcy', async () => {

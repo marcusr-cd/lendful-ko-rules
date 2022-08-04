@@ -14,7 +14,7 @@ function _getYearlyIncome(fields) {
 /**
  * Verify if the client has consumer proposal open
  * @param {Object} creditData
- * @param {Boolean}
+ * @returns {Boolean}
  */
 function verifyConsumerProposal(creditData) {
   if (!creditData?.hasConsumerProposal) return false;

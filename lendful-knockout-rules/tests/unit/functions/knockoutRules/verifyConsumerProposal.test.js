@@ -1,4 +1,4 @@
-const { verifyConsumerProposal } = require('../../../../common/knockoutRules');
+const { verifyConsumerProposal } = require('../../../../functions/knockoutRules');
 
 describe('verifyConsumerProposal', () => {
   it('test verifyConsumerProposal with empty parameter', async () => {

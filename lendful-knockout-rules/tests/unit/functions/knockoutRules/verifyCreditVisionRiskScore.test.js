@@ -1,4 +1,4 @@
-const { verifyCreditVisionRiskScore } = require('../../../../common/knockoutRules');
+const { verifyCreditVisionRiskScore } = require('../../../../functions/knockoutRules');
 
 describe('test verifyCreditVisionRiskScore', () => {
   it('test verifyCreditVisionRiskScore with empty parameter', async () => {

@@ -1,4 +1,4 @@
-const { verifyUnpaidCollectionLegalGreaterThan500 } = require('../../../../common/knockoutRules');
+const { verifyUnpaidCollectionLegalGreaterThan500 } = require('../../../../functions/knockoutRules');
 
 describe('test verifyUnpaidCollectionLegalGreaterThan500', () => {
   it('test verifyUnpaidCollectionLegalGreaterThan500 with empty parameter', async () => {

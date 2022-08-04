@@ -1,5 +1,5 @@
 const { subMonths } = require('date-fns');
-const { verifyProposalSatisfiedDateWithin24Months } = require('../../../../common/knockoutRules');
+const { verifyProposalSatisfiedDateWithin24Months } = require('../../../../functions/knockoutRules');
 
 describe('test verifyProposalSatisfiedDateWithin24Months', () => {
   it('test verifyProposalSatisfiedDateWithin24Months without parameter', async () => {

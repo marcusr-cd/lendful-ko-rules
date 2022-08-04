@@ -3,7 +3,7 @@ const {
   verifyNoMortgage,
   getTradeFirstOpened,
   verifyTradeFirstOpenedWithin3YearsFromToday,
-} = require('../../../../common/knockoutRules');
+} = require('../../../../functions/knockoutRules');
 const {
   humanReadableWithTradeFirstOpened,
   humanReadableWithoutTradeFirstOpened,

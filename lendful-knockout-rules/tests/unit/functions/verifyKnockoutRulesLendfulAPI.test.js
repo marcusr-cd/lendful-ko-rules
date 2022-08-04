@@ -1,5 +1,5 @@
 const { subMonths } = require('date-fns');
-const { verifyKnockoutRulesLendfulAPI } = require('../../../common/knockoutRules');
+const { verifyKnockoutRulesLendfulAPI } = require('../../../functions/knockoutRules');
 const {
   humanReadableWithTradeFirstOpened,
   humanReadableWithoutTradeFirstOpened,

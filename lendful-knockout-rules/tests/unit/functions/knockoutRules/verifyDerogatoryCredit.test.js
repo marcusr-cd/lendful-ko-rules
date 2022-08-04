@@ -1,4 +1,4 @@
-const { verifyDerogatoryCredit } = require('../../../../common/knockoutRules');
+const { verifyDerogatoryCredit } = require('../../../../functions/knockoutRules');
 
 describe('Test verifyDerogatoryCredit', () => {
   it('test verifyDerogatoryCredit empty parameter', async () => {

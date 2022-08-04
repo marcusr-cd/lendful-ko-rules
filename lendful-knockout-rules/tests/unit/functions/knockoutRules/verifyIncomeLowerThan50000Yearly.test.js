@@ -1,4 +1,4 @@
-const { verifyIncomeLowerThan50000Yearly } = require('../../../../common/knockoutRules');
+const { verifyIncomeLowerThan50000Yearly } = require('../../../../functions/knockoutRules');
 
 describe('test verifyIncomeLowerThan50000Yearly', () => {
   it('test verifyIncomeLowerThan50000Yearly with empty parameter', async () => {
